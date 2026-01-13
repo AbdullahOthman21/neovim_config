@@ -1,4 +1,4 @@
-# My neovim config ._.
+# My neovim 0.12 config ._.
 
 ```lua
 vim.o.termguicolors = true
